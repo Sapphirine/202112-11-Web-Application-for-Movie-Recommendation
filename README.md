@@ -1,5 +1,5 @@
 # 202112-11-Web-Application-for-Movie-Recommendation
-Downloading the dataset and run the Run.ipynb can be time-consuming. We hard-coded two examples of our results:
+Downloading the dataset and running the Run.ipynb can be time-consuming. We hard-coded two examples of our results:
 1. Open the recommend.html file under ~\src\main\resources\templates
 2. Input "Frozen" or "Titanic" to test the result
 
